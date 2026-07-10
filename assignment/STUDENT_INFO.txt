@@ -1,7 +1,7 @@
 # Fill in your details before starting the assignment.
 # Keep this file in your repo so we can track your submission.
 
-Student Name : ___________________________________
-Roll Number  : ___________________________________
-Batch        : ___________________________________
-Date Started : ___________________________________
+Student Name : Fasil vk
+Roll Number  : 22
+Batch        : 2025-28
+Date Started : 03/4/2026
